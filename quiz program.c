@@ -1,3 +1,10 @@
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+#include<stdlib.h>
+void answer(int x,int *y);
+void menu();
+
 int main()
 {
 	int i=0,j=0;
